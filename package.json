@@ -1,0 +1,10 @@
+{
+  "name": "gradle-npm",
+  "version": "0.0.1",
+  "description": "NodeJS/npm using gradle example",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
+}
